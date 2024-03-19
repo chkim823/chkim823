@@ -2,7 +2,7 @@
 ### I am a third-year undergrad studying Computer Science and Music with a minor in Mathematics at Case Western Reserve University. Welcome to my GitHub profile :)
 
 #### (Check out my [LinkedIn](https://www.linkedin.com/in/chkim0820/) profile to see what I'm up to...)
-#### (... or my website! It's a more comprehensive self-introduction with directories to my resume, etc.)
+#### (... or my website!)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chkim0820&theme=nightowl&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chkim0820&theme=nightowl)](https://git.io/streak-stats)

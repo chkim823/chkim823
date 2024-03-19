@@ -3,10 +3,10 @@
 
 (Check out my [LinkedIn](https://www.linkedin.com/in/chkim0820/) profile to see what I'm up to...)
 
+<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chkim0820&theme=nightowl&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chkim0820&theme=nightowl)](https://git.io/streak-stats)
-
-##🌱 Currently busy with school and research!
+</p>
 
 <!--
 **chkim0820/chkim0820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

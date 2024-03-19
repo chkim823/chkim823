@@ -1,6 +1,5 @@
 # Hello, I'm Chae! 👋
-## Welcome to my GitHub profile :)
-#### I am a third-year undergrad studying Computer Science and Music with a minor in Mathematics at Case Western Reserve University.
+#### I am a third-year undergrad studying Computer Science and Music with a minor in Mathematics at Case Western Reserve University. Welcome to my GitHub profile :)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chkim0820&theme=nightowl&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chkim0820&theme=nightowl)](https://git.io/streak-stats)

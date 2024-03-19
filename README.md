@@ -1,5 +1,5 @@
 # Hello, I'm Chae! 👋
-### I am a third-year undergrad studying Computer Science and Music, with a minor in Mathematics, at Case Western Reserve University. Welcome to my GitHub profile :)
+### I am a third-year undergrad studying Computer Science and Music with a minor in Mathematics at Case Western Reserve University. Welcome to my GitHub profile :)
 
 (Check out my [LinkedIn profile](https://www.linkedin.com/in/chkim0820/) to see what I'm up to...)
 

@@ -1,4 +1,4 @@
-# Hello, I'm Chae! 👋
+# Hello, I'm Hannah! 👋
 ### I am a 4th year Computer Science and Music student with a minor in Mathematics at Case Western Reserve University. Welcome to my GitHub profile :)
 #### I am graduating in Spring 2025!
 
